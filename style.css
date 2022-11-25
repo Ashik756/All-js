@@ -1,0 +1,19 @@
+img {
+    border-radius: 6px;
+    
+
+}
+
+.btn:hover {
+    cursor: pointer;
+    color: aliceblue;
+    background: #000;
+    border-radius: 5px;
+}
+
+.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+}
